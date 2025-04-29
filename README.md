@@ -26,7 +26,7 @@ Este projeto tem como objetivo realizar a limpeza e preparação de uma base de 
 - Pandas  
 - VS Code + Jupyter Notebook (`.ipynb`)
 
-📓 O processo completo está documentado no notebook: [retail_data_cleaning.ipynb](./retail_data_cleaning.ipynb)
+📓 O processo completo está documentado no notebook: [data_cleaning_retail_sales.ipynb](./data_cleaning_retail_sales.ipynb)
 
 📈 **Resultado Final**  
 O dataset limpo foi salvo como `retail_sales_cleaned.csv`, pronto para análises e visualizações.
