@@ -28,8 +28,7 @@ Este projeto tem como objetivo realizar a limpeza e preparação de uma base de 
 
 📓 O processo completo está documentado no notebook: [data_cleaning_retail_sales.ipynb](./data_cleaning_retail_sales.ipynb)
 
-📈 **Resultado Final**  
-O dataset limpo foi salvo como `retail_sales_cleaned.csv`, pronto para análises e visualizações.
+🧼 Resultado final: [retail_sales_cleaned.csv](./retail_sales_cleaned.csv)
 
 🔁 **Reprodutibilidade**  
 Para reproduzir, abra o notebook no VS Code ou JupyterLab com Python instalado e certifique-se de que o arquivo `retail_sales_dirty.csv` esteja no mesmo diretório.
