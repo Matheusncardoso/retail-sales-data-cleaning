@@ -30,9 +30,6 @@ Este projeto tem como objetivo realizar a limpeza e preparação de uma base de 
 
 🧼 Resultado final: [retail_sales_cleaned.csv](./retail_sales_cleaned.csv)
 
-🔁 **Reprodutibilidade**  
-Para reproduzir, abra o notebook no VS Code ou JupyterLab com Python instalado e certifique-se de que o arquivo `retail_sales_dirty.csv` esteja no mesmo diretório.
-
 ---
 
 👤 **Autor**  
